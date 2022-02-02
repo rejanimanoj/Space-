@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+
+.menu
+{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+#welcome {
+    position: absolute;
+    color: white;
+    bottom: 0;
+    background-image: url("s8.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.line
+{
+    height: 6px;
+    width: 70px;
+    background-color: blueviolet;
+    margin: 8px auto;
+}
+
+.head
+{
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.header_
+{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+.header_ :hover {
+    color: cyan;
+}
+
+img
+{
+    width: 960px;
+    height: 540px;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+    color: white;
+}
+
+.space
+{
+    margin-top: 150px; 
+}
+
+h2
+{
+    color: red;
+}
+
+b
+{
+    color: cyan;
+}
+
+#bruh
+{
+    color: white;
+}
+
+#universee
+{
+    color: red;
+    margin-top: 300px;
+}
